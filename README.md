@@ -1,8 +1,6 @@
-# SajibVai
+# Supermarket
 
 Flutter marketplace app for house booking, home services, and tuition. Users can sign up as students, house owners, or service providers and manage listings, bookings, and orders from role-based dashboards.
-
-> Folder name: `Supermarket-main`. App name in code: **SajibVai**.
 
 ## Features
 
