@@ -1,6 +1,6 @@
 class AppConstants {
   // App info
-  static const String appName = 'SajibVai';
+  static const String appName = 'Supermarket';
   static const String appVersion = '1.0.0';
 
   // API endpoints (mock)

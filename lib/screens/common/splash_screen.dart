@@ -45,7 +45,7 @@ class _SplashScreenState extends State<SplashScreen> {
                 ),
                 child: const Center(
                   child: Text(
-                    'SV',
+                    'SM',
                     style: TextStyle(
                       fontSize: 40,
                       fontWeight: FontWeight.bold,
@@ -56,7 +56,7 @@ class _SplashScreenState extends State<SplashScreen> {
               ),
               const SizedBox(height: 24),
               const Text(
-                'SajibVai',
+                'Supermarket',
                 style: TextStyle(
                   fontSize: 32,
                   fontWeight: FontWeight.bold,

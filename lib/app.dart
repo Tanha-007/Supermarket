@@ -3,13 +3,13 @@ import 'package:flutter_riverpod/flutter_riverpod.dart';
 import 'theme/app_theme.dart';
 import 'routes.dart';
 
-class SajibVaiApp extends ConsumerWidget {
-  const SajibVaiApp({Key? key}) : super(key: key);
+class SupermarketApp extends ConsumerWidget {
+  const SupermarketApp({Key? key}) : super(key: key);
 
   @override
   Widget build(BuildContext context, WidgetRef ref) {
     return MaterialApp(
-      title: 'SajibVai',
+      title: 'Supermarket',
       debugShowCheckedModeBanner: false,
       theme: AppTheme.lightTheme,
       darkTheme: AppTheme.darkTheme,

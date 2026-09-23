@@ -6,7 +6,7 @@ void main() async {
   WidgetsFlutterBinding.ensureInitialized();
   runApp(
     const ProviderScope(
-      child: SajibVaiApp(),
+      child: SupermarketApp(),
     ),
   );
 }
